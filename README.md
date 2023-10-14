@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m a development intern at Better Now<br>🔭 I’m currently working on a Hospital Management System<br>🌱 I’m currently improving my skills in Java and Spring Boot<br><br><br><br><br>
+🎯 I’m a development intern at Better Now<br>🔭 I’m currently working on a Snake Game<br>🌱 I’m currently improving my skills in Java and Spring Boot<br><br><br><br><br>
 
 
 ## 🌐 Socials:
