@@ -1,7 +1,6 @@
 # 💫 About Me:
 🎯 I’m a development intern at Better Now<br>🔭 I’m currently working on a Snake Game<br>🌱 I’m currently improving my skills in Java and Spring Boot<br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.lgomes/?hl=pt-br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/lucas-gomes-morais-8542b3279) 
 
