@@ -1,29 +1,29 @@
-<h3 align="center">About Me: </h3>
+# /about
 
-<br/>
+software development analyst at **Better Now**, focused on **back-end engineering**, **distributed systems** and **software architecture**.
 
-<div align="center">
- 
- 🎯 **I’m a development intern at Better Now**
- 
- 🌱 I’m currently improving my skills in **Java and Spring Boot**
+currently working mostly with **.NET, PostgreSQL, RabbitMQ, React and cloud-native applications**.
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:lucasgomesmorais58@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/lucas-gomes-morais-8542b3279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+# /skills
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,php,ts,nextjs,mysql,postgres,gherkin,selenium" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,github,figma,git,gitlab,postman,docker" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RABBITMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZURE-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLAYWRIGHT-000000?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+# /contact
+
+feel free to reach me through these links.
+
+- linkedin: [linkedin.com/in/lucas-gomes-morais-8542b3279](https://linkedin.com/in/lucas-gomes-morais-8542b3279)
+- email: [lucasgomesmorais58@gmail.com](mailto:lucasgomesmorais58@gmail.com)
